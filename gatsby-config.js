@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: `trusted.plus helper`,
+    title: `Инструкция пользователя TRUSTED.PLUS`,
     description: `Start your new blog using markdown files`,
     author: `@gatsbyjs`,
   },
